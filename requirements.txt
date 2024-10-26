@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+rasterio
+tqdm
+typing
+segmentation-models-pytorch
