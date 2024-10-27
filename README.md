@@ -1,3 +1,5 @@
+# Ссылка на модель best_model_.pt:
+https://drive.google.com/file/d/1ware20BnpeeNwFcp4qL3eG8nEK5UT3yX/view?usp=sharing 
 ## Анализ последствий наводнений
 
 **Описание датасета**
